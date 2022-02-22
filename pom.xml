@@ -77,13 +77,7 @@
 			<version>1.5.6</version>
 			<classifier>mule-plugin</classifier>
 		</dependency>
-		<dependency>
-			<groupId>e05cc422-0f1b-4623-bbef-794a50aba7cb</groupId>
-			<artifactId>insurance-sys-externalprovider</artifactId>
-			<version>1.0.1</version>
-			<classifier>raml</classifier>
-			<type>zip</type>
-		</dependency>
+		
 		<dependency>
 			<groupId>org.mule.connectors</groupId>
 			<artifactId>mule-db-connector</artifactId>
