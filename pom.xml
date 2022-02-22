@@ -95,16 +95,10 @@
 			<version>1.2.3</version>
 			<classifier>mule-plugin</classifier>
 		</dependency>
-		<dependency>
-			<groupId>75d043df-1c5a-47e0-94b8-e00e514797f6</groupId>
-			<artifactId>insurance-externalprovider</artifactId>
-			<version>1.0.1</version>
-			<classifier>raml</classifier>
-			<type>zip</type>
-		</dependency>
+		
 		<dependency>
 			<groupId>3142f8a6-1adf-4548-a991-b2ac155aaa2d</groupId>
-			<artifactId>insurance-sys-externalprovider</artifactId>
+			<artifactId>insurance-sys-externalProvider</artifactId>
 			<version>1.0.0</version>
 			<classifier>raml</classifier>
 			<type>zip</type>
